@@ -1,1 +1,14 @@
-# Loader
+-Onetap V3 Menu [Not finished]
+-Good Visuals
+-VAC Protection:Unknown
+-Extremely Good Aimbot
+-Backtrack
+-Good Resolver
+-Anti-Aim
+-Knife changer
+-Junk Code
+-Hit Marker
+-Hit Sound
+-Desync
+-HitList
+-More Coming Soon!
